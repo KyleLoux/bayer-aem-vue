@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM SAMPLE - VUE APP Content Package</comment>
+<entry key="createdBy">kyle.loux</entry>
+<entry key="name">vue.app.ui.apps</entry>
+<entry key="acHandling">merge_preserve</entry>
+<entry key="created">2019-10-31T13:27:19.484-0600</entry>
+<entry key="groupId">com.ahmedmusallam.sample</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">ahmedmusallam</entry>
+<entry key="description">Maven Multimodule project for AEM SAMPLE - VUE APP.</entry>
+<entry key="artifactId">vue.app.ui.apps</entry>
+<entry key="path">/etc/packages/ahmedmusallam/vue.app.ui.apps.zip</entry>
+</properties>

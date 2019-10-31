@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1572550022651
+Build-Jdk: 1.8.0_211
+Built-By: kyle.loux
+Bundle-Description: Maven Multimodule project for AEM SAMPLE - VUE APP.
+Bundle-ManifestVersion: 2
+Bundle-Name: AEM SAMPLE - VUE APP Bundle
+Bundle-SymbolicName: com.ahmedmusallam.sample.vue.app
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Sling-Model-Packages: vue.app.core
+Tool: Bnd-3.3.0.201609221906
